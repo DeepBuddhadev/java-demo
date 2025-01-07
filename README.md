@@ -1,3 +1,3 @@
 # java-demo
 1st java code
-by Deep BUddhadev
+by Deep Buddhadev
